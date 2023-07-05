@@ -7,5 +7,4 @@ var userDog = new Dog();
 userDog.SetName(name);
 
 Console.WriteLine($"Dog name {userDog.GetName()}");
-
 userDog.Eat();
